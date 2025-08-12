@@ -1,0 +1,14 @@
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\bin\Debug\net9.0\1Variables.exe
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\bin\Debug\net9.0\1Variables.deps.json
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\bin\Debug\net9.0\1Variables.runtimeconfig.json
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\bin\Debug\net9.0\1Variables.dll
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\bin\Debug\net9.0\1Variables.pdb
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\1Variables.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\1Variables.AssemblyInfoInputs.cache
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\1Variables.AssemblyInfo.cs
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\1Variables.csproj.CoreCompileInputs.cache
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\1Variables.dll
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\refint\1Variables.dll
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\1Variables.pdb
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\1Variables.genruntimeconfig.cache
+c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\ref\1Variables.dll
