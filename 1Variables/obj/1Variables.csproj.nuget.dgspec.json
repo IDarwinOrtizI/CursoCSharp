@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\R1pD3\\OneDrive\\Escritorio\\C#\\CursoCSharp\\1Variables\\1Variables.csproj": {}
+    "C:\\Users\\R1pD3\\OneDrive\\Escritorio\\C#\\CursoCSharp\\1Variables\\1Variables.csproj": {}
   },
   "projects": {
-    "c:\\Users\\R1pD3\\OneDrive\\Escritorio\\C#\\CursoCSharp\\1Variables\\1Variables.csproj": {
+    "C:\\Users\\R1pD3\\OneDrive\\Escritorio\\C#\\CursoCSharp\\1Variables\\1Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\R1pD3\\OneDrive\\Escritorio\\C#\\CursoCSharp\\1Variables\\1Variables.csproj",
+        "projectUniqueName": "C:\\Users\\R1pD3\\OneDrive\\Escritorio\\C#\\CursoCSharp\\1Variables\\1Variables.csproj",
         "projectName": "1Variables",
-        "projectPath": "c:\\Users\\R1pD3\\OneDrive\\Escritorio\\C#\\CursoCSharp\\1Variables\\1Variables.csproj",
+        "projectPath": "C:\\Users\\R1pD3\\OneDrive\\Escritorio\\C#\\CursoCSharp\\1Variables\\1Variables.csproj",
         "packagesPath": "C:\\Users\\R1pD3\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\R1pD3\\OneDrive\\Escritorio\\C#\\CursoCSharp\\1Variables\\obj\\",
+        "outputPath": "C:\\Users\\R1pD3\\OneDrive\\Escritorio\\C#\\CursoCSharp\\1Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\R1pD3\\AppData\\Roaming\\NuGet\\NuGet.Config"

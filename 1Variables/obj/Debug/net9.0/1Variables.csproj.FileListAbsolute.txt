@@ -12,3 +12,4 @@ c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\re
 c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\1Variables.pdb
 c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\1Variables.genruntimeconfig.cache
 c:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\ref\1Variables.dll
+C:\Users\R1pD3\OneDrive\Escritorio\C#\CursoCSharp\1Variables\obj\Debug\net9.0\1Variables.sourcelink.json
