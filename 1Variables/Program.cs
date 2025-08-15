@@ -58,3 +58,37 @@ decimal m = 1.0m / 3.0m; // 0.3333333333333333333333333333 (mas preciso que doub
 Console.WriteLine("float: " + f);
 Console.WriteLine("double: " + d);
 Console.WriteLine("decimal: " + m);
+
+decimal salario = 1205.25M; // M al final indica que es un decimal
+decimal aumento = 10.10M;
+
+Console.WriteLine("Aumento (mal hecho): " + salario + aumento);
+
+float resultadoFinal = (float)(salario + aumento);
+Console.WriteLine("Aumento (bien hecho): " + resultadoFinal);
+
+Console.WriteLine("**********Booleanos y var*********");
+
+bool esMayorDeEdad = false;
+Console.WriteLine("Es mayor de edad: " + esMayorDeEdad);
+esMayorDeEdad = true;
+Console.WriteLine("Es mayor de edad: " + esMayorDeEdad);
+
+var variableDinamica = "Una cadena de texto";
+// variableDinamica = 123;  // Esto no es posible porque 'var' infiere el tipo 
+// en la primera asignación
+
+
+var edad = 23;
+
+var esHombre = true;
+
+// Ejercicio 
+Console.WriteLine("Digite el primer numero: ");
+String entrada1 = Console.ReadLine()!;
+Console.WriteLine("Digite el segundo numero: ");
+String entrada2 = Console.ReadLine()!;
+Console.WriteLine("Digite el tercer numero: ");
+String entrada3 = Console.ReadLine()!;
+int suma = Convert.ToInt32(entrada1) + Convert.ToInt32(entrada2) + Convert.ToInt32(entrada3);
+Console.WriteLine("La Suma de los dos numeros es: " + suma);
